@@ -29,3 +29,6 @@ Repository(Repo): Thư mục
 
 - git checkout -b (branch name): tạo ra branch(nhánh) mới
 >>>>>>> dev
+
+
+- git branch -d (branch name) : xóa branch
