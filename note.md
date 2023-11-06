@@ -14,3 +14,6 @@ Repository(Repo): Thư mục
 
 - git commit : lưu lại thời điểm trên dự án
 (git commit -m 'initial commit')
+
+- git merge (branch name) : tổng hợp branch
+
