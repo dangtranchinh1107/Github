@@ -40,3 +40,8 @@ Repository(Repo): Thư mục
 
 -  git remote add origin https://github.com/dangchinh9707/Github.git
 -  git push origin master
+- git clone (repo url) : kéo file trên github về local
+-  khi trên git có branch khác -> kéo branch xuống local: git fetch origin -> git checkout -b (branch name) origin/(branch name)
+
+-  git pull : kéo remote về local
+-  gitignore: tạo file .gitignore -> điền các file k muốn đẩy lên github
