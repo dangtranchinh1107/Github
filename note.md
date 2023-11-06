@@ -35,3 +35,8 @@ Repository(Repo): Thư mục
 
 
 - git push : đẩy dự án lên
+
+- git push https://github.com/dangchinh9707/Github.git master: đẩy dự án lên
+
+-  git remote add origin https://github.com/dangchinh9707/Github.git
+-  git push origin master
