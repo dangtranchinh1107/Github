@@ -32,3 +32,6 @@ Repository(Repo): Thư mục
 
 
 - git branch -d (branch name) : xóa branch
+
+
+- git push : đẩy dự án lên
