@@ -10,3 +10,7 @@ Repository(Repo): Thư mục
 
 - git add . : lưu lại file
 
+- git reset : lấy ra file đã lưu
+
+- git commit : lưu lại thời điểm trên dự án
+(git commit -m 'initial commit')
