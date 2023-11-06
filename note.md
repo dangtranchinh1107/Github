@@ -14,3 +14,13 @@ Repository(Repo): Thư mục
 
 - git commit : lưu lại thời điểm trên dự án
 (git commit -m 'initial commit')
+
+- git log : xem lại những thời điểm đã lưu
+
+- git log --oneline
+
+- git checkout(branch/name) : trở lại commit
+
+- git branch
+
+- git checkout -b (branch name): tạo ra branch(nhánh) mới
